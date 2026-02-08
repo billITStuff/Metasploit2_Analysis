@@ -1,3 +1,4 @@
 # Metasploit2 Analysis Project
+(report will be listed above when complete) - Still in progress
 
 Metasploitable 2 is a virtual machine that is intentionally made vulnerable to be able for a pentester to practice tools. For this project I created a scenerio where I was a pentester looking at a clients server, which in this case is the Metasploitable 2. I will ten write a detailed analysis report showing the vulnerabilities associated with this system and remediations to repair the machine to be more secure. I am sure my report will not list all the vulnerabilities or mediations but the goal is to practice pentesting and creating a security analysis report on my results.
